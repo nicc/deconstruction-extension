@@ -1,7 +1,5 @@
 # de(con)struction
 
-![Deconstruction Icon](icon-fractured-square.svg)
-
 `de(con)struction` is a Chrome Extension that gradually erodes the visual structure of a website. Made using Gemini. 
 
 ---
