@@ -1,0 +1,26 @@
+{
+  "manifest_version": 3,
+  "name": "de(con)struction",
+  "version": "1.0",
+  "description": "Slowly erodes the visual structure of any page, leaving only raw information.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    },
+    "default_title": "Begin de(con)struction"
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
